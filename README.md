@@ -5,9 +5,9 @@ As previously anounced, in [Future Planning: Entries with extended PDB and CCD I
 
 Due to legacy PDB file format limitations, CCD id codes have been limited to three alpha-numeric characters, and PDB codes to four.
 
-As early as Fall 2023, the availability of three character CCD identifiers will be exceeded and the wwPDB will need to extend the length.
+As early as Fall 2023, the availabile three character CCD identifiers will be consumed and the wwPDB will need to extend the length.
 
-Existing identifiers will not be extended, but will only be used for newer CCD and PDB codes.
+Existing identifiers will not be extended to the exsting PDB entries, but will only be used for newer CCD and PDB codes.
 
 Within this repository are sample CCD and model files displaying extended length identifiers.
 
