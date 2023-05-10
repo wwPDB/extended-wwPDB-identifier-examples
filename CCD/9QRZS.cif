@@ -1,0 +1,245 @@
+data_9QRZS
+# 
+_chem_comp.id                                    9QRZS 
+_chem_comp.name                                  "(2S)-3-(1H-indol-3-yl)-N-[[1-(5-methoxypyridin-2-yl)cyclohexyl]methyl]-2-methyl-2-[(4-nitrophenyl)carbamoylamino]propanamide" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C32 H36 N6 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2021-12-01 
+_chem_comp.pdbx_modified_date                    2023-02-17 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        584.665 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     9QRZS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        7W41 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+9QRZS CBD C1  C 0  1 N N N -24.413 12.127 -6.059  -3.962 6.041  -1.628 CBD 9QRZS 1  
+9QRZS OBC O1  O 0  1 N N N -23.366 11.161 -6.144  -2.768 5.341  -1.273 OBC 9QRZS 2  
+9QRZS CAZ C2  C 0  1 Y N N -23.892 9.962  -6.496  -2.917 4.164  -0.610 CAZ 9QRZS 3  
+9QRZS CAY C3  C 0  1 Y N N -25.232 9.869  -6.829  -4.181 3.684  -0.303 CAY 9QRZS 4  
+9QRZS NAX N1  N 0  1 Y N N -25.772 8.637  -7.189  -4.330 2.543  0.340  NAX 9QRZS 5  
+9QRZS CBA C4  C 0  1 Y N N -23.094 8.832  -6.527  -1.802 3.420  -0.236 CBA 9QRZS 6  
+9QRZS CBB C5  C 0  1 Y N N -23.654 7.619  -6.888  -2.004 2.226  0.438  CBB 9QRZS 7  
+9QRZS CAW C6  C 0  1 Y N N -24.999 7.548  -7.229  -3.295 1.816  0.713  CAW 9QRZS 8  
+9QRZS CAQ C7  C 0  1 N N N -25.549 6.333  -7.583  -3.523 0.519  1.446  CAQ 9QRZS 9  
+9QRZS CAR C8  C 0  1 N N N -26.973 6.235  -7.077  -4.954 0.484  1.987  CAR 9QRZS 10 
+9QRZS CAS C9  C 0  1 N N N -26.997 5.512  -5.749  -5.186 -0.833 2.730  CAS 9QRZS 11 
+9QRZS CAT C10 C 0  1 N N N -26.650 4.056  -5.956  -4.197 -0.943 3.893  CAT 9QRZS 12 
+9QRZS CAU C11 C 0  1 N N N -25.514 3.951  -6.939  -2.767 -0.908 3.352  CAU 9QRZS 13 
+9QRZS CAV C12 C 0  1 N N N -24.736 5.242  -6.918  -2.535 0.409  2.608  CAV 9QRZS 14 
+9QRZS CAP C13 C 0  1 N N N -25.586 6.162  -9.114  -3.313 -0.653 0.485  CAP 9QRZS 15 
+9QRZS NAO N2  N 0  1 N N N -24.320 6.432  -9.822  -1.910 -0.694 0.065  NAO 9QRZS 16 
+9QRZS CAM C14 C 0  1 N N N -23.554 5.398  -10.169 -1.520 -0.044 -1.049 CAM 9QRZS 17 
+9QRZS OAN O2  O 0  1 N N N -23.845 4.248  -9.842  -2.344 0.504  -1.751 OAN 9QRZS 18 
+9QRZS CAB C15 C 0  1 N N S -22.262 5.668  -10.943 -0.061 0.003  -1.423 CAB 9QRZS 19 
+9QRZS NBE N3  N 0  1 N N N -21.857 4.403  -11.564 0.754  0.021  -0.206 NBE 9QRZS 20 
+9QRZS CBF C16 C 0  1 N N N -22.624 3.685  -12.410 2.099  0.063  -0.297 CBF 9QRZS 21 
+9QRZS OBG O3  O 0  1 N N N -23.750 4.030  -12.759 2.634  0.086  -1.388 OBG 9QRZS 22 
+9QRZS NBH N4  N 0  1 N N N -22.033 2.556  -12.823 2.849  0.079  0.823  NBH 9QRZS 23 
+9QRZS CBI C17 C 0  1 Y N N -22.608 1.637  -13.589 4.237  0.232  0.733  CBI 9QRZS 24 
+9QRZS CBJ C18 C 0  1 Y N N -23.413 1.888  -14.691 4.786  1.032  -0.261 CBJ 9QRZS 25 
+9QRZS CBK C19 C 0  1 Y N N -23.949 0.825  -15.402 6.156  1.185  -0.344 CBK 9QRZS 26 
+9QRZS CBL C20 C 0  1 Y N N -23.684 -0.480 -15.027 6.981  0.542  0.561  CBL 9QRZS 27 
+9QRZS NBO N5  N 1  1 N N N -24.194 -1.491 -15.713 8.449  0.709  0.470  NBO 9QRZS 28 
+9QRZS CBM C21 C 0  1 Y N N -22.880 -0.734 -13.934 6.438  -0.255 1.552  CBM 9QRZS 29 
+9QRZS CBN C22 C 0  1 Y N N -22.343 0.327  -13.225 5.068  -0.412 1.640  CBN 9QRZS 30 
+9QRZS CAA C23 C 0  1 N N N -21.200 6.040  -9.921  0.215  1.266  -2.241 CAA 9QRZS 31 
+9QRZS CAC C24 C 0  1 N N N -22.363 6.805  -11.975 0.292  -1.231 -2.256 CAC 9QRZS 32 
+9QRZS CAD C25 C 0  1 Y N N -21.021 7.026  -12.722 -0.033 -2.476 -1.471 CAD 9QRZS 33 
+9QRZS CAL C26 C 0  1 Y N N -20.205 8.073  -12.616 -1.317 -3.180 -1.447 CAL 9QRZS 34 
+9QRZS CAK C27 C 0  1 Y N N -20.247 9.167  -11.863 -2.550 -2.972 -2.070 CAK 9QRZS 35 
+9QRZS CAJ C28 C 0  1 Y N N -19.233 10.111 -11.934 -3.583 -3.836 -1.834 CAJ 9QRZS 36 
+9QRZS CAI C29 C 0  1 Y N N -18.180 9.894  -12.803 -3.417 -4.918 -0.981 CAI 9QRZS 37 
+9QRZS CAH C30 C 0  1 Y N N -18.190 8.737  -13.561 -2.209 -5.141 -0.356 CAH 9QRZS 38 
+9QRZS CAG C31 C 0  1 Y N N -19.185 7.865  -13.452 -1.144 -4.275 -0.582 CAG 9QRZS 39 
+9QRZS NAF N6  N 0  1 Y N N -19.388 6.712  -14.073 0.153  -4.228 -0.122 NAF 9QRZS 40 
+9QRZS CAE C32 C 0  1 Y N N -20.530 6.203  -13.635 0.801  -3.153 -0.666 CAE 9QRZS 41 
+9QRZS H1  H1  H 0  1 N N N -23.991 13.102 -5.774  -4.524 6.282  -0.725 H1  9QRZS 42 
+9QRZS H2  H2  H 0  1 N N N -24.911 12.215 -7.036  -3.702 6.962  -2.151 H2  9QRZS 43 
+9QRZS H3  H3  H 0  1 N N N -25.145 11.809 -5.302  -4.572 5.414  -2.278 H3  9QRZS 44 
+9QRZS H4  H4  H 0  1 N N N -25.857 10.749 -6.810  -5.053 4.252  -0.592 H4  9QRZS 45 
+9QRZS H5  H5  H 0  1 N N N -22.046 8.896  -6.272  -0.804 3.764  -0.465 H5  9QRZS 46 
+9QRZS H6  H6  H 0  1 N N N -23.045 6.727  -6.905  -1.162 1.623  0.744  H6  9QRZS 47 
+9QRZS H7  H7  H 0  1 N N N -27.385 7.247  -6.949  -5.104 1.319  2.672  H7  9QRZS 48 
+9QRZS H8  H8  H 0  1 N N N -27.582 5.680  -7.806  -5.658 0.562  1.159  H8  9QRZS 49 
+9QRZS H9  H9  H 0  1 N N N -26.263 5.970  -5.070  -6.205 -0.858 3.116  H9  9QRZS 50 
+9QRZS H10 H10 H 0  1 N N N -28.002 5.589  -5.309  -5.035 -1.668 2.046  H10 9QRZS 51 
+9QRZS H11 H11 H 0  1 N N N -27.527 3.521  -6.349  -4.347 -0.108 4.578  H11 9QRZS 52 
+9QRZS H12 H12 H 0  1 N N N -26.349 3.610  -4.997  -4.362 -1.882 4.423  H12 9QRZS 53 
+9QRZS H13 H13 H 0  1 N N N -25.913 3.776  -7.949  -2.063 -0.986 4.180  H13 9QRZS 54 
+9QRZS H14 H14 H 0  1 N N N -24.855 3.117  -6.656  -2.617 -1.743 2.667  H14 9QRZS 55 
+9QRZS H15 H15 H 0  1 N N N -23.789 5.108  -7.461  -1.516 0.434  2.223  H15 9QRZS 56 
+9QRZS H16 H16 H 0  1 N N N -24.525 5.526  -5.876  -2.685 1.244  3.293  H16 9QRZS 57 
+9QRZS H17 H17 H 0  1 N N N -26.348 6.848  -9.512  -3.569 -1.585 0.987  H17 9QRZS 58 
+9QRZS H18 H18 H 0  1 N N N -25.879 5.124  -9.330  -3.950 -0.524 -0.390 H18 9QRZS 59 
+9QRZS H19 H19 H 0  1 N N N -24.043 7.369  -10.036 -1.261 -1.189 0.589  H19 9QRZS 60 
+9QRZS H20 H20 H 0  1 N N N -20.948 4.048  -11.345 0.327  0.003  0.664  H20 9QRZS 61 
+9QRZS H21 H21 H 0  1 N N N -21.090 2.394  -12.533 2.427  -0.014 1.691  H21 9QRZS 62 
+9QRZS H22 H22 H 0  1 N N N -23.621 2.904  -14.993 4.142  1.533  -0.969 H22 9QRZS 63 
+9QRZS H23 H23 H 0  1 N N N -24.580 1.018  -16.257 6.584  1.806  -1.117 H23 9QRZS 64 
+9QRZS H26 H26 H 0  1 N N N -22.672 -1.751 -13.635 7.085  -0.755 2.257  H26 9QRZS 65 
+9QRZS H27 H27 H 0  1 N N N -21.707 0.130  -12.374 4.644  -1.031 2.416  H27 9QRZS 66 
+9QRZS H28 H28 H 0  1 N N N -21.113 5.238  -9.173  -0.036 2.146  -1.648 H28 9QRZS 67 
+9QRZS H29 H29 H 0  1 N N N -20.234 6.174  -10.429 1.271  1.301  -2.512 H29 9QRZS 68 
+9QRZS H30 H30 H 0  1 N N N -21.485 6.978  -9.421  -0.391 1.253  -3.147 H30 9QRZS 69 
+9QRZS H31 H31 H 0  1 N N N -22.638 7.734  -11.455 -0.285 -1.223 -3.180 H31 9QRZS 70 
+9QRZS H32 H32 H 0  1 N N N -23.142 6.551  -12.709 1.356  -1.217 -2.492 H32 9QRZS 71 
+9QRZS H33 H33 H 0  1 N N N -21.077 9.323  -11.190 -2.686 -2.132 -2.734 H33 9QRZS 72 
+9QRZS H34 H34 H 0  1 N N N -19.266 11.000 -11.321 -4.536 -3.674 -2.316 H34 9QRZS 73 
+9QRZS H35 H35 H 0  1 N N N -17.373 10.607 -12.888 -4.243 -5.591 -0.804 H35 9QRZS 74 
+9QRZS H36 H36 H 0  1 N N N -17.380 8.541  -14.248 -2.090 -5.986 0.306  H36 9QRZS 75 
+9QRZS H37 H37 H 0  1 N N N -18.784 6.298  -14.754 0.550  -4.866 0.492  H37 9QRZS 76 
+9QRZS H38 H38 H 0  1 N N N -20.981 5.279  -13.965 1.829  -2.885 -0.472 H38 9QRZS 77 
+9QRZS O1  O4  O -1 1 N N N ?       ?      ?       8.929  1.411  -0.402 O1  9QRZS 78 
+9QRZS O2  O5  O 0  1 N N N ?       ?      ?       9.177  0.144  1.266  O2  9QRZS 79 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+9QRZS NBO CBL SING N N 1  
+9QRZS CBK CBL DOUB Y N 2  
+9QRZS CBK CBJ SING Y N 3  
+9QRZS CBL CBM SING Y N 4  
+9QRZS CBJ CBI DOUB Y N 5  
+9QRZS NAF CAE SING Y N 6  
+9QRZS NAF CAG SING Y N 7  
+9QRZS CBM CBN DOUB Y N 8  
+9QRZS CAE CAD DOUB Y N 9  
+9QRZS CBI CBN SING Y N 10 
+9QRZS CBI NBH SING N N 11 
+9QRZS CAH CAG DOUB Y N 12 
+9QRZS CAH CAI SING Y N 13 
+9QRZS CAG CAL SING Y N 14 
+9QRZS NBH CBF SING N N 15 
+9QRZS CAI CAJ DOUB Y N 16 
+9QRZS OBG CBF DOUB N N 17 
+9QRZS CAD CAL SING Y N 18 
+9QRZS CAD CAC SING N N 19 
+9QRZS CAL CAK DOUB Y N 20 
+9QRZS CBF NBE SING N N 21 
+9QRZS CAC CAB SING N N 22 
+9QRZS CAJ CAK SING Y N 23 
+9QRZS NBE CAB SING N N 24 
+9QRZS CAB CAM SING N N 25 
+9QRZS CAB CAA SING N N 26 
+9QRZS CAM OAN DOUB N N 27 
+9QRZS CAM NAO SING N N 28 
+9QRZS NAO CAP SING N N 29 
+9QRZS CAP CAQ SING N N 30 
+9QRZS CAQ CAW SING N N 31 
+9QRZS CAQ CAR SING N N 32 
+9QRZS CAQ CAV SING N N 33 
+9QRZS CAW NAX DOUB Y N 34 
+9QRZS CAW CBB SING Y N 35 
+9QRZS NAX CAY SING Y N 36 
+9QRZS CAR CAS SING N N 37 
+9QRZS CAU CAV SING N N 38 
+9QRZS CAU CAT SING N N 39 
+9QRZS CBB CBA DOUB Y N 40 
+9QRZS CAY CAZ DOUB Y N 41 
+9QRZS CBA CAZ SING Y N 42 
+9QRZS CAZ OBC SING N N 43 
+9QRZS OBC CBD SING N N 44 
+9QRZS CAT CAS SING N N 45 
+9QRZS CBD H1  SING N N 46 
+9QRZS CBD H2  SING N N 47 
+9QRZS CBD H3  SING N N 48 
+9QRZS CAY H4  SING N N 49 
+9QRZS CBA H5  SING N N 50 
+9QRZS CBB H6  SING N N 51 
+9QRZS CAR H7  SING N N 52 
+9QRZS CAR H8  SING N N 53 
+9QRZS CAS H9  SING N N 54 
+9QRZS CAS H10 SING N N 55 
+9QRZS CAT H11 SING N N 56 
+9QRZS CAT H12 SING N N 57 
+9QRZS CAU H13 SING N N 58 
+9QRZS CAU H14 SING N N 59 
+9QRZS CAV H15 SING N N 60 
+9QRZS CAV H16 SING N N 61 
+9QRZS CAP H17 SING N N 62 
+9QRZS CAP H18 SING N N 63 
+9QRZS NAO H19 SING N N 64 
+9QRZS NBE H20 SING N N 65 
+9QRZS NBH H21 SING N N 66 
+9QRZS CBJ H22 SING N N 67 
+9QRZS CBK H23 SING N N 68 
+9QRZS CBM H26 SING N N 69 
+9QRZS CBN H27 SING N N 70 
+9QRZS CAA H28 SING N N 71 
+9QRZS CAA H29 SING N N 72 
+9QRZS CAA H30 SING N N 73 
+9QRZS CAC H31 SING N N 74 
+9QRZS CAC H32 SING N N 75 
+9QRZS CAK H33 SING N N 76 
+9QRZS CAJ H34 SING N N 77 
+9QRZS CAI H35 SING N N 78 
+9QRZS CAH H36 SING N N 79 
+9QRZS NAF H37 SING N N 80 
+9QRZS CAE H38 SING N N 81 
+9QRZS NBO O1  SING N N 82 
+9QRZS NBO O2  DOUB N N 83 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+9QRZS InChI            InChI                1.03  "InChI=1S/C32H36N6O5/c1-31(18-22-19-33-27-9-5-4-8-26(22)27,37-30(40)36-23-10-12-24(13-11-23)38(41)42)29(39)35-21-32(16-6-3-7-17-32)28-15-14-25(43-2)20-34-28/h4-5,8-15,19-20,33H,3,6-7,16-18,21H2,1-2H3,(H,35,39)(H2,36,37,40)/t31-/m0/s1" 
+9QRZS InChIKey         InChI                1.03  NNFUWNLENRUDHR-HKBQPEDESA-N                                                                                                                                                                                                                
+9QRZS SMILES_CANONICAL CACTVS               3.385 "COc1ccc(nc1)C2(CCCCC2)CNC(=O)[C@](C)(Cc3c[nH]c4ccccc34)NC(=O)Nc5ccc(cc5)[N+]([O-])=O"                                                                                                                                                     
+9QRZS SMILES           CACTVS               3.385 "COc1ccc(nc1)C2(CCCCC2)CNC(=O)[C](C)(Cc3c[nH]c4ccccc34)NC(=O)Nc5ccc(cc5)[N+]([O-])=O"                                                                                                                                                      
+9QRZS SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "C[C@](Cc1c[nH]c2c1cccc2)(C(=O)NCC3(CCCCC3)c4ccc(cn4)OC)NC(=O)Nc5ccc(cc5)[N+](=O)[O-]"                                                                                                                                                     
+9QRZS SMILES           "OpenEye OEToolkits" 2.0.7 "CC(Cc1c[nH]c2c1cccc2)(C(=O)NCC3(CCCCC3)c4ccc(cn4)OC)NC(=O)Nc5ccc(cc5)[N+](=O)[O-]"                                                                                                                                                        
+# 
+_pdbx_chem_comp_identifier.comp_id           9QRZS 
+_pdbx_chem_comp_identifier.type              "SYSTEMATIC NAME" 
+_pdbx_chem_comp_identifier.program           "OpenEye OEToolkits" 
+_pdbx_chem_comp_identifier.program_version   2.0.7 
+_pdbx_chem_comp_identifier.identifier        "(2~{S})-3-(1~{H}-indol-3-yl)-~{N}-[[1-(5-methoxypyridin-2-yl)cyclohexyl]methyl]-2-methyl-2-[(4-nitrophenyl)carbamoylamino]propanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+9QRZS "Create component" 2021-12-01 PDBJ 
+9QRZS "Initial release"  2023-02-22 RCSB 
+# 

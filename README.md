@@ -14,11 +14,17 @@ Within this repository are sample CCD and model files displaying extended length
 Some examples:
 
 * CCD
-  * [SEP](CCD/SEP-extended_CCD_code-definition.cif) with CCD identifier changed to `SEP01`
-  * [EPE](CCD/EPE-extended_CCD_code-definition.cif) with CCD identifier changed to `EPE01`
-* Models
-   * [7fgz](Models/7fgz-extended_CCD_code-model.cif) with extended CCD code (`EPE01`)
-   * [pdb_00017fgz](Models/pdb_00017fgz-extended_PDB_CCD_codes-model.cif) with extended PDB accession code and CCD code (`EPE01`)
-   * [7xsv](Models/7xsv-extended_CCD_code-model.cif) with extended CCD code (`SEP01`) in polymer
-   * [pdb_00017xsv](Models/pdb_00017xsv-extended_PDB_CCD_codes-model.cif) with extended PDB accession and and CCD code (`SEP01`) in polymer
+  * [SEP](CCD/BB87Q.cif) with CCD identifier changed to `BB87Q`
+  * [EPE](CCD/7ZTVU.cif) with CCD identifier changed to `7ZTVU`
+  * [8B8](CCD/9QRZS.cif) with CCD identifier changed to `9QRZS`
+  * [WAS](CCD/9ABCD.cif) with CCD identifier changed to `9ABCD`
 
+* Models
+   * [7fgz](Models/7fgz-extended_CCD_code-model.cif) with extended CCD code `7ZTVU`replacing `EPE`
+   * [pdb_00017fgz](Models/pdb_00017fgz-extended_PDB_CCD_codes-model.cif) with extended PDB accession code and CCD code 7ZTVU replacing `EPE`
+   * [7xsv](Models/7xsv-extended_CCD_code-model.cif) with extended CCD code `BB87Q`replacing `SEP` in polymer
+   * [pdb_00017xsv](Models/pdb_00017xsv-extended_PDB_CCD_codes-model.cif) with extended PDB accession and and CCD code `BB87Q` replacing `SEP` in polymer
+   * [8eur](Models/8eur-extended_CCD_code-model.cif) with extended CCD code `WAS` replacing `WAS`
+   * [7w41](Models/7fgz-extended_CCD_code-model.cif) with extended CCD code `8B8`replacing `9RQZS`
+   * [pdb_00017w41](Models/pdb_0001741-extended_PDB_CCD_codes-model.cif) with extended PDB accession code and CCD code `8B8` replacing `9RQZS`
+   * [pdb_00017u1t](Models/pdb_00017u1t-extended_PDB_codes-model.cif) with extended PDB accession code
