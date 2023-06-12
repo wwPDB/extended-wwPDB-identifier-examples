@@ -24,7 +24,7 @@ Some examples:
    * [pdb_00017fgz](Models/pdb_00017fgz-extended_PDB_CCD_codes-model.cif) with extended PDB accession code and CCD code 7ZTVU replacing `EPE`
    * [7xsv](Models/7xsv-extended_CCD_code-model.cif) with extended CCD code `BB87Q`replacing `SEP` in polymer
    * [pdb_00017xsv](Models/pdb_00017xsv-extended_PDB_CCD_codes-model.cif) with extended PDB accession and and CCD code `BB87Q` replacing `SEP` in polymer
-   * [8eur](Models/8eur-extended_CCD_code-model.cif) with extended CCD code `WAS` replacing `WAS`
-   * [7w41](Models/7fgz-extended_CCD_code-model.cif) with extended CCD code `8B8`replacing `9RQZS`
-   * [pdb_00017w41](Models/pdb_0001741-extended_PDB_CCD_codes-model.cif) with extended PDB accession code and CCD code `8B8` replacing `9RQZS`
+   * [8eur](Models/8eur-extended_CCD_code-model.cif) with extended CCD code `9ABCD` replacing `WAS`
+   * [7w41](Models/7w41-extended_CCD_code-model.cif) with extended CCD code `9QRZS`replacing `8B8`
+   * [pdb_00017w41](Models/pdb_00017w41-extended_PDB_CCD_codes-model.cif) with extended PDB accession code and CCD code `9QRZS` replacing `8B8`
    * [pdb_00017u1t](Models/pdb_00017u1t-extended_PDB_codes-model.cif) with extended PDB accession code
