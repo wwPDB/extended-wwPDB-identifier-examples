@@ -18,6 +18,12 @@ Some examples:
   * [EPE](CCD/7ZTVU.cif) with CCD identifier changed to `7ZTVU`
   * [8B8](CCD/9QRZS.cif) with CCD identifier changed to `9QRZS`
   * [WAS](CCD/9ABCD.cif) with CCD identifier changed to `9ABCD`
+  * [BMA](CCD/XXBMA.cif) with CCD identifier changed to `XXBMA`
+  * [DVA](CCD/XXDVA.cif) with CCD identifier changed to `XXDVA`
+
+* PRD and PRDCC
+  * [PRD_999999](PRD/PRD_999999.cif) with CCD component XXDVA replacing DVA in PRD_000001
+  * [PRDCC_999999](PRDCC/PRDCC_999999.cif) with CCD component XXDVA replacing DVA in PRD_000001
 
 * Models
    * [7fgz](Models/7fgz-extended_CCD_code-model.cif) with extended CCD code `7ZTVU`replacing `EPE`
@@ -28,3 +34,8 @@ Some examples:
    * [7w41](Models/7w41-extended_CCD_code-model.cif) with extended CCD code `9QRZS`replacing `8B8`
    * [pdb_00017w41](Models/pdb_00017w41-extended_PDB_CCD_codes-model.cif) with extended PDB accession code and CCD code `9QRZS` replacing `8B8`
    * [pdb_00017u1t](Models/pdb_00017u1t-extended_PDB_codes-model.cif) with extended PDB accession code
+   * [1b5f](Models/1b5f-extended_CCD_code-model.cif) with extended CCD code `XXBMA` replacing `BMA` in branched entities of oligosaccharides
+   * [pdb_00011b5f](Models/pdb_00011b5f-extended_PDB_CCD_codes-model.cif) with extended PDB accession code and CCD code `XXBMA` replacing `BMA` in branched entities of oligosaccharides
+   * [1a7y](Models/1a7y-extended_CCD_code-model.cif) with extended CCD code `XXDVA` replacing `DVA` in the oligopepetide entity PRD_999999
+   * [pdb_00011a7y](Models/pdb_00011a7y-extended_PDB_CCD_codes-model.cif) with extended PDB accession code and CCD code `XXDVA` replacing `DVA` in the oligopepetide entity PRD_999999
+   
