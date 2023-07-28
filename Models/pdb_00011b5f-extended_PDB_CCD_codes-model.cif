@@ -596,7 +596,7 @@ ALA 'L-peptide linking'           y ALANINE                                  ? '
 ARG 'L-peptide linking'           y ARGININE                                 ? 'C6 H15 N4 O2 1' 175.209 
 ASN 'L-peptide linking'           y ASPARAGINE                               ? 'C4 H8 N2 O3'    132.118 
 ASP 'L-peptide linking'           y 'ASPARTIC ACID'                          ? 'C4 H7 N O4'     133.103 
-XXBMA 'D-saccharide, beta linking'  . beta-D-mannopyranose                     'beta-D-mannose; D-mannose; mannose' 'C6 H12 O6'      
+1XAMB 'D-saccharide, beta linking'  . beta-D-mannopyranose                     'beta-D-mannose; D-mannose; mannose' 'C6 H12 O6'      
 180.156 
 CYS 'L-peptide linking'           y CYSTEINE                                 ? 'C3 H7 N O2 S'   121.158 
 FUC 'L-saccharide, alpha linking' . alpha-L-fucopyranose                     
@@ -993,20 +993,20 @@ covale3  covale one  ? C ASN 69  ND2 ? ? ? 1_555 G NAG .   C1 ? ? C ASN 67  G NA
 covale4  covale one  ? D ASN 15  ND2 ? ? ? 1_555 H NAG .   C1 ? ? D ASN 257 H NAG 1   1_555 ? ? ? ? ? ? ? 1.456 ? N-Glycosylation 
 covale5  covale both ? E NAG .   O4  ? ? ? 1_555 E NAG .   C1 ? ? E NAG 1   E NAG 2   1_555 ? ? ? ? ? ? ? 1.387 ? ?               
 covale6  covale both ? E NAG .   O3  ? ? ? 1_555 E FUC .   C1 ? ? E NAG 1   E FUC 5   1_555 ? ? ? ? ? ? ? 1.430 ? ?               
-covale7  covale both ? E NAG .   O4  ? ? ? 1_555 E XXBMA .   C1 ? ? E NAG 2   E XXBMA 3   1_555 ? ? ? ? ? ? ? 1.396 ? ?               
-covale8  covale both ? E XXBMA .   O3  ? ? ? 1_555 E MAN .   C1 ? ? E XXBMA 3   E MAN 4   1_555 ? ? ? ? ? ? ? 1.408 ? ?               
+covale7  covale both ? E NAG .   O4  ? ? ? 1_555 E 1XAMB .   C1 ? ? E NAG 2   E 1XAMB 3   1_555 ? ? ? ? ? ? ? 1.396 ? ?               
+covale8  covale both ? E 1XAMB .   O3  ? ? ? 1_555 E MAN .   C1 ? ? E 1XAMB 3   E MAN 4   1_555 ? ? ? ? ? ? ? 1.408 ? ?               
 covale9  covale both ? F NAG .   O4  ? ? ? 1_555 F NAG .   C1 ? ? F NAG 1   F NAG 2   1_555 ? ? ? ? ? ? ? 1.385 ? ?               
 covale10 covale both ? F NAG .   O3  ? ? ? 1_555 F FUC .   C1 ? ? F NAG 1   F FUC 4   1_555 ? ? ? ? ? ? ? 1.425 ? ?               
-covale11 covale both ? F NAG .   O4  ? ? ? 1_555 F XXBMA .   C1 ? ? F NAG 2   F XXBMA 3   1_555 ? ? ? ? ? ? ? 1.389 ? ?               
+covale11 covale both ? F NAG .   O4  ? ? ? 1_555 F 1XAMB .   C1 ? ? F NAG 2   F 1XAMB 3   1_555 ? ? ? ? ? ? ? 1.389 ? ?               
 covale12 covale both ? G NAG .   O4  ? ? ? 1_555 G NAG .   C1 ? ? G NAG 1   G NAG 2   1_555 ? ? ? ? ? ? ? 1.388 ? ?               
 covale13 covale both ? G NAG .   O3  ? ? ? 1_555 G FUC .   C1 ? ? G NAG 1   G FUC 6   1_555 ? ? ? ? ? ? ? 1.427 ? ?               
-covale14 covale both ? G NAG .   O4  ? ? ? 1_555 G XXBMA .   C1 ? ? G NAG 2   G XXBMA 3   1_555 ? ? ? ? ? ? ? 1.399 ? ?               
-covale15 covale both ? G XXBMA .   O3  ? ? ? 1_555 G MAN .   C1 ? ? G XXBMA 3   G MAN 4   1_555 ? ? ? ? ? ? ? 1.406 ? ?               
-covale16 covale both ? G XXBMA .   O6  ? ? ? 1_555 G MAN .   C1 ? ? G XXBMA 3   G MAN 5   1_555 ? ? ? ? ? ? ? 1.410 ? ?               
+covale14 covale both ? G NAG .   O4  ? ? ? 1_555 G 1XAMB .   C1 ? ? G NAG 2   G 1XAMB 3   1_555 ? ? ? ? ? ? ? 1.399 ? ?               
+covale15 covale both ? G 1XAMB .   O3  ? ? ? 1_555 G MAN .   C1 ? ? G 1XAMB 3   G MAN 4   1_555 ? ? ? ? ? ? ? 1.406 ? ?               
+covale16 covale both ? G 1XAMB .   O6  ? ? ? 1_555 G MAN .   C1 ? ? G 1XAMB 3   G MAN 5   1_555 ? ? ? ? ? ? ? 1.410 ? ?               
 covale17 covale both ? H NAG .   O4  ? ? ? 1_555 H NAG .   C1 ? ? H NAG 1   H NAG 2   1_555 ? ? ? ? ? ? ? 1.390 ? ?               
 covale18 covale both ? H NAG .   O3  ? ? ? 1_555 H FUC .   C1 A ? H NAG 1   H FUC 4   1_555 ? ? ? ? ? ? ? 1.424 ? ?               
 covale19 covale both ? H NAG .   O3  ? ? ? 1_555 H FUC .   C1 B ? H NAG 1   H FUC 4   1_555 ? ? ? ? ? ? ? 1.416 ? ?               
-covale20 covale both ? H NAG .   O4  ? ? ? 1_555 H XXBMA .   C1 ? ? H NAG 2   H XXBMA 3   1_555 ? ? ? ? ? ? ? 1.391 ? ?               
+covale20 covale both ? H NAG .   O4  ? ? ? 1_555 H 1XAMB .   C1 ? ? H NAG 2   H 1XAMB 3   1_555 ? ? ? ? ? ? ? 1.391 ? ?               
 # 
 loop_
 _struct_conn_type.id 
@@ -6403,17 +6403,17 @@ HETATM 5096 O O4  . NAG E 3 .   ? 41.151  16.298  10.790  1.00 35.78  ? 2   NAG 
 HETATM 5097 O O5  . NAG E 3 .   ? 39.390  18.346  8.265   1.00 33.88  ? 2   NAG E O5  1 
 HETATM 5098 O O6  . NAG E 3 .   ? 38.344  19.254  10.997  1.00 51.88  ? 2   NAG E O6  1 
 HETATM 5099 O O7  . NAG E 3 .   ? 40.073  16.681  4.178   1.00 79.63  ? 2   NAG E O7  1 
-HETATM 5100 C C1  . XXBMA E 3 .   ? 42.097  16.784  11.695  1.00 42.84  ? 3   XXBMA E C1  1 
-HETATM 5101 C C2  . XXBMA E 3 .   ? 41.865  16.288  13.096  1.00 43.10  ? 3   XXBMA E C2  1 
-HETATM 5102 C C3  . XXBMA E 3 .   ? 42.943  16.985  13.980  1.00 47.36  ? 3   XXBMA E C3  1 
-HETATM 5103 C C4  . XXBMA E 3 .   ? 44.290  16.424  13.474  1.00 44.98  ? 3   XXBMA E C4  1 
-HETATM 5104 C C5  . XXBMA E 3 .   ? 44.507  16.889  12.052  1.00 49.37  ? 3   XXBMA E C5  1 
-HETATM 5105 C C6  . XXBMA E 3 .   ? 45.841  16.392  11.476  1.00 50.83  ? 3   XXBMA E C6  1 
-HETATM 5106 O O2  . XXBMA E 3 .   ? 42.156  14.859  13.168  1.00 38.32  ? 3   XXBMA E O2  1 
-HETATM 5107 O O3  . XXBMA E 3 .   ? 42.845  16.435  15.311  1.00 49.32  ? 3   XXBMA E O3  1 
-HETATM 5108 O O4  . XXBMA E 3 .   ? 45.320  16.945  14.296  1.00 54.09  ? 3   XXBMA E O4  1 
-HETATM 5109 O O5  . XXBMA E 3 .   ? 43.409  16.440  11.229  1.00 50.64  ? 3   XXBMA E O5  1 
-HETATM 5110 O O6  . XXBMA E 3 .   ? 46.044  14.956  11.468  1.00 60.64  ? 3   XXBMA E O6  1 
+HETATM 5100 C C1  . 1XAMB E 3 .   ? 42.097  16.784  11.695  1.00 42.84  ? 3   1XAMB E C1  1 
+HETATM 5101 C C2  . 1XAMB E 3 .   ? 41.865  16.288  13.096  1.00 43.10  ? 3   1XAMB E C2  1 
+HETATM 5102 C C3  . 1XAMB E 3 .   ? 42.943  16.985  13.980  1.00 47.36  ? 3   1XAMB E C3  1 
+HETATM 5103 C C4  . 1XAMB E 3 .   ? 44.290  16.424  13.474  1.00 44.98  ? 3   1XAMB E C4  1 
+HETATM 5104 C C5  . 1XAMB E 3 .   ? 44.507  16.889  12.052  1.00 49.37  ? 3   1XAMB E C5  1 
+HETATM 5105 C C6  . 1XAMB E 3 .   ? 45.841  16.392  11.476  1.00 50.83  ? 3   1XAMB E C6  1 
+HETATM 5106 O O2  . 1XAMB E 3 .   ? 42.156  14.859  13.168  1.00 38.32  ? 3   1XAMB E O2  1 
+HETATM 5107 O O3  . 1XAMB E 3 .   ? 42.845  16.435  15.311  1.00 49.32  ? 3   1XAMB E O3  1 
+HETATM 5108 O O4  . 1XAMB E 3 .   ? 45.320  16.945  14.296  1.00 54.09  ? 3   1XAMB E O4  1 
+HETATM 5109 O O5  . 1XAMB E 3 .   ? 43.409  16.440  11.229  1.00 50.64  ? 3   1XAMB E O5  1 
+HETATM 5110 O O6  . 1XAMB E 3 .   ? 46.044  14.956  11.468  1.00 60.64  ? 3   1XAMB E O6  1 
 HETATM 5111 C C1  . MAN E 3 .   ? 42.913  17.368  16.363  1.00 51.69  ? 4   MAN E C1  1 
 HETATM 5112 C C2  . MAN E 3 .   ? 42.977  16.574  17.663  1.00 60.04  ? 4   MAN E C2  1 
 HETATM 5113 C C3  . MAN E 3 .   ? 41.902  15.496  17.476  1.00 63.95  ? 4   MAN E C3  1 
@@ -6467,17 +6467,17 @@ HETATM 5160 O O4  . NAG F 4 .   ? 17.650  -19.445 33.404  1.00 87.58  ? 2   NAG 
 HETATM 5161 O O5  . NAG F 4 .   ? 18.603  -21.292 30.394  1.00 59.45  ? 2   NAG F O5  1 
 HETATM 5162 O O6  . NAG F 4 .   ? 20.317  -22.435 31.717  1.00 94.45  ? 2   NAG F O6  1 
 HETATM 5163 O O7  . NAG F 4 .   ? 14.682  -19.508 27.167  1.00 75.95  ? 2   NAG F O7  1 
-HETATM 5164 C C1  . XXBMA F 4 .   ? 16.933  -19.668 34.572  1.00 99.27  ? 3   XXBMA F C1  1 
-HETATM 5165 C C2  . XXBMA F 4 .   ? 17.871  -19.717 35.751  1.00 104.96 ? 3   XXBMA F C2  1 
-HETATM 5166 C C3  . XXBMA F 4 .   ? 16.994  -19.988 36.964  1.00 110.16 ? 3   XXBMA F C3  1 
-HETATM 5167 C C4  . XXBMA F 4 .   ? 15.947  -18.899 37.144  1.00 108.29 ? 3   XXBMA F C4  1 
-HETATM 5168 C C5  . XXBMA F 4 .   ? 15.086  -18.833 35.895  1.00 104.58 ? 3   XXBMA F C5  1 
-HETATM 5169 C C6  . XXBMA F 4 .   ? 13.989  -17.767 35.968  1.00 103.25 ? 3   XXBMA F C6  1 
-HETATM 5170 O O2  . XXBMA F 4 .   ? 18.763  -18.571 35.743  1.00 101.38 ? 3   XXBMA F O2  1 
-HETATM 5171 O O3  . XXBMA F 4 .   ? 17.722  -20.215 38.168  1.00 136.64 ? 3   XXBMA F O3  1 
-HETATM 5172 O O4  . XXBMA F 4 .   ? 15.100  -19.168 38.249  1.00 112.48 ? 3   XXBMA F O4  1 
-HETATM 5173 O O5  . XXBMA F 4 .   ? 15.926  -18.651 34.736  1.00 101.95 ? 3   XXBMA F O5  1 
-HETATM 5174 O O6  . XXBMA F 4 .   ? 13.025  -17.905 37.043  1.00 99.55  ? 3   XXBMA F O6  1 
+HETATM 5164 C C1  . 1XAMB F 4 .   ? 16.933  -19.668 34.572  1.00 99.27  ? 3   1XAMB F C1  1 
+HETATM 5165 C C2  . 1XAMB F 4 .   ? 17.871  -19.717 35.751  1.00 104.96 ? 3   1XAMB F C2  1 
+HETATM 5166 C C3  . 1XAMB F 4 .   ? 16.994  -19.988 36.964  1.00 110.16 ? 3   1XAMB F C3  1 
+HETATM 5167 C C4  . 1XAMB F 4 .   ? 15.947  -18.899 37.144  1.00 108.29 ? 3   1XAMB F C4  1 
+HETATM 5168 C C5  . 1XAMB F 4 .   ? 15.086  -18.833 35.895  1.00 104.58 ? 3   1XAMB F C5  1 
+HETATM 5169 C C6  . 1XAMB F 4 .   ? 13.989  -17.767 35.968  1.00 103.25 ? 3   1XAMB F C6  1 
+HETATM 5170 O O2  . 1XAMB F 4 .   ? 18.763  -18.571 35.743  1.00 101.38 ? 3   1XAMB F O2  1 
+HETATM 5171 O O3  . 1XAMB F 4 .   ? 17.722  -20.215 38.168  1.00 136.64 ? 3   1XAMB F O3  1 
+HETATM 5172 O O4  . 1XAMB F 4 .   ? 15.100  -19.168 38.249  1.00 112.48 ? 3   1XAMB F O4  1 
+HETATM 5173 O O5  . 1XAMB F 4 .   ? 15.926  -18.651 34.736  1.00 101.95 ? 3   1XAMB F O5  1 
+HETATM 5174 O O6  . 1XAMB F 4 .   ? 13.025  -17.905 37.043  1.00 99.55  ? 3   1XAMB F O6  1 
 HETATM 5175 C C1  . FUC F 4 .   ? 18.016  -24.895 27.976  1.00 66.14  ? 4   FUC F C1  1 
 HETATM 5176 C C2  . FUC F 4 .   ? 18.391  -26.026 28.949  1.00 75.03  ? 4   FUC F C2  1 
 HETATM 5177 C C3  . FUC F 4 .   ? 18.087  -25.634 30.390  1.00 81.78  ? 4   FUC F C3  1 
@@ -6516,17 +6516,17 @@ HETATM 5209 O O4  . NAG G 5 .   ? -15.514 19.002  29.276  1.00 29.85  ? 2   NAG 
 HETATM 5210 O O5  . NAG G 5 .   ? -15.070 16.451  26.649  1.00 33.97  ? 2   NAG G O5  1 
 HETATM 5211 O O6  . NAG G 5 .   ? -13.118 15.749  28.826  1.00 64.06  ? 2   NAG G O6  1 
 HETATM 5212 O O7  . NAG G 5 .   ? -16.990 17.544  23.020  1.00 80.38  ? 2   NAG G O7  1 
-HETATM 5213 C C1  . XXBMA G 5 .   ? -16.074 18.667  30.514  1.00 31.63  ? 3   XXBMA G C1  1 
-HETATM 5214 C C2  . XXBMA G 5 .   ? -15.133 18.955  31.638  1.00 27.34  ? 3   XXBMA G C2  1 
-HETATM 5215 C C3  . XXBMA G 5 .   ? -15.788 18.591  32.973  1.00 39.35  ? 3   XXBMA G C3  1 
-HETATM 5216 C C4  . XXBMA G 5 .   ? -17.120 19.322  33.095  1.00 39.33  ? 3   XXBMA G C4  1 
-HETATM 5217 C C5  . XXBMA G 5 .   ? -18.000 19.123  31.894  1.00 42.73  ? 3   XXBMA G C5  1 
-HETATM 5218 C C6  . XXBMA G 5 .   ? -19.236 20.029  31.974  1.00 56.20  ? 3   XXBMA G C6  1 
-HETATM 5219 O O2  . XXBMA G 5 .   ? -14.706 20.342  31.653  1.00 33.11  ? 3   XXBMA G O2  1 
-HETATM 5220 O O3  . XXBMA G 5 .   ? -14.979 19.159  34.045  1.00 37.28  ? 3   XXBMA G O3  1 
-HETATM 5221 O O4  . XXBMA G 5 .   ? -17.786 18.900  34.277  1.00 36.16  ? 3   XXBMA G O4  1 
-HETATM 5222 O O5  . XXBMA G 5 .   ? -17.320 19.358  30.648  1.00 35.83  ? 3   XXBMA G O5  1 
-HETATM 5223 O O6  . XXBMA G 5 .   ? -20.225 19.889  30.948  1.00 89.67  ? 3   XXBMA G O6  1 
+HETATM 5213 C C1  . 1XAMB G 5 .   ? -16.074 18.667  30.514  1.00 31.63  ? 3   1XAMB G C1  1 
+HETATM 5214 C C2  . 1XAMB G 5 .   ? -15.133 18.955  31.638  1.00 27.34  ? 3   1XAMB G C2  1 
+HETATM 5215 C C3  . 1XAMB G 5 .   ? -15.788 18.591  32.973  1.00 39.35  ? 3   1XAMB G C3  1 
+HETATM 5216 C C4  . 1XAMB G 5 .   ? -17.120 19.322  33.095  1.00 39.33  ? 3   1XAMB G C4  1 
+HETATM 5217 C C5  . 1XAMB G 5 .   ? -18.000 19.123  31.894  1.00 42.73  ? 3   1XAMB G C5  1 
+HETATM 5218 C C6  . 1XAMB G 5 .   ? -19.236 20.029  31.974  1.00 56.20  ? 3   1XAMB G C6  1 
+HETATM 5219 O O2  . 1XAMB G 5 .   ? -14.706 20.342  31.653  1.00 33.11  ? 3   1XAMB G O2  1 
+HETATM 5220 O O3  . 1XAMB G 5 .   ? -14.979 19.159  34.045  1.00 37.28  ? 3   1XAMB G O3  1 
+HETATM 5221 O O4  . 1XAMB G 5 .   ? -17.786 18.900  34.277  1.00 36.16  ? 3   1XAMB G O4  1 
+HETATM 5222 O O5  . 1XAMB G 5 .   ? -17.320 19.358  30.648  1.00 35.83  ? 3   1XAMB G O5  1 
+HETATM 5223 O O6  . 1XAMB G 5 .   ? -20.225 19.889  30.948  1.00 89.67  ? 3   1XAMB G O6  1 
 HETATM 5224 C C1  . MAN G 5 .   ? -14.582 18.227  35.020  1.00 34.71  ? 4   MAN G C1  1 
 HETATM 5225 C C2  . MAN G 5 .   ? -14.044 18.946  36.239  1.00 30.57  ? 4   MAN G C2  1 
 HETATM 5226 C C3  . MAN G 5 .   ? -12.989 19.926  35.693  1.00 38.15  ? 4   MAN G C3  1 
@@ -6587,17 +6587,17 @@ HETATM 5280 O O4  . NAG H 4 .   ? 21.060  53.035  35.744  1.00 125.41 ? 2   NAG 
 HETATM 5281 O O5  . NAG H 4 .   ? 18.596  53.143  33.041  1.00 87.62  ? 2   NAG H O5  1 
 HETATM 5282 O O6  . NAG H 4 .   ? 17.010  53.860  35.371  1.00 122.67 ? 2   NAG H O6  1 
 HETATM 5283 O O7  . NAG H 4 .   ? 20.112  49.210  30.080  1.00 62.68  ? 2   NAG H O7  1 
-HETATM 5284 C C1  . XXBMA H 4 .   ? 22.246  53.639  36.148  1.00 136.26 ? 3   XXBMA H C1  1 
-HETATM 5285 C C2  . XXBMA H 4 .   ? 23.066  52.621  36.921  1.00 142.24 ? 3   XXBMA H C2  1 
-HETATM 5286 C C3  . XXBMA H 4 .   ? 22.318  52.451  38.242  1.00 147.60 ? 3   XXBMA H C3  1 
-HETATM 5287 C C4  . XXBMA H 4 .   ? 22.509  53.674  39.117  1.00 147.23 ? 3   XXBMA H C4  1 
-HETATM 5288 C C5  . XXBMA H 4 .   ? 22.624  54.900  38.238  1.00 144.03 ? 3   XXBMA H C5  1 
-HETATM 5289 C C6  . XXBMA H 4 .   ? 24.038  55.533  38.121  1.00 144.35 ? 3   XXBMA H C6  1 
-HETATM 5290 O O2  . XXBMA H 4 .   ? 24.462  53.047  36.956  1.00 134.70 ? 3   XXBMA H O2  1 
-HETATM 5291 O O3  . XXBMA H 4 .   ? 22.584  51.226  38.918  1.00 153.42 ? 3   XXBMA H O3  1 
-HETATM 5292 O O4  . XXBMA H 4 .   ? 21.366  53.871  40.008  1.00 148.18 ? 3   XXBMA H O4  1 
-HETATM 5293 O O5  . XXBMA H 4 .   ? 21.917  54.767  36.989  1.00 139.91 ? 3   XXBMA H O5  1 
-HETATM 5294 O O6  . XXBMA H 4 .   ? 24.761  55.511  39.424  1.00 138.93 ? 3   XXBMA H O6  1 
+HETATM 5284 C C1  . 1XAMB H 4 .   ? 22.246  53.639  36.148  1.00 136.26 ? 3   1XAMB H C1  1 
+HETATM 5285 C C2  . 1XAMB H 4 .   ? 23.066  52.621  36.921  1.00 142.24 ? 3   1XAMB H C2  1 
+HETATM 5286 C C3  . 1XAMB H 4 .   ? 22.318  52.451  38.242  1.00 147.60 ? 3   1XAMB H C3  1 
+HETATM 5287 C C4  . 1XAMB H 4 .   ? 22.509  53.674  39.117  1.00 147.23 ? 3   1XAMB H C4  1 
+HETATM 5288 C C5  . 1XAMB H 4 .   ? 22.624  54.900  38.238  1.00 144.03 ? 3   1XAMB H C5  1 
+HETATM 5289 C C6  . 1XAMB H 4 .   ? 24.038  55.533  38.121  1.00 144.35 ? 3   1XAMB H C6  1 
+HETATM 5290 O O2  . 1XAMB H 4 .   ? 24.462  53.047  36.956  1.00 134.70 ? 3   1XAMB H O2  1 
+HETATM 5291 O O3  . 1XAMB H 4 .   ? 22.584  51.226  38.918  1.00 153.42 ? 3   1XAMB H O3  1 
+HETATM 5292 O O4  . 1XAMB H 4 .   ? 21.366  53.871  40.008  1.00 148.18 ? 3   1XAMB H O4  1 
+HETATM 5293 O O5  . 1XAMB H 4 .   ? 21.917  54.767  36.989  1.00 139.91 ? 3   1XAMB H O5  1 
+HETATM 5294 O O6  . 1XAMB H 4 .   ? 24.761  55.511  39.424  1.00 138.93 ? 3   1XAMB H O6  1 
 HETATM 5295 C C1  A FUC H 4 .   ? 19.608  55.038  30.371  0.73 75.86  ? 4   FUC H C1  1 
 HETATM 5296 C C1  B FUC H 4 .   ? 17.854  55.552  31.568  0.27 69.15  ? 4   FUC H C1  1 
 HETATM 5297 C C2  A FUC H 4 .   ? 20.453  55.853  29.374  0.73 80.15  ? 4   FUC H C2  1 
@@ -7148,7 +7148,7 @@ HETATM 5841 O O   . HOH L 6 .   ? -4.622  45.964  38.885  1.00 46.14  ? 467 HOH 
 HETATM 5842 O O   . HOH L 6 .   ? 18.778  51.685  26.633  1.00 41.98  ? 468 HOH D O   1 
 # 
 _database_PDB_caveat.id     1 
-_database_PDB_caveat.text   'XXBMA H 3 HAS WRONG CHIRALITY AT ATOM C1' 
+_database_PDB_caveat.text   '1XAMB H 3 HAS WRONG CHIRALITY AT ATOM C1' 
 # 
 loop_
 _pdbx_poly_seq_scheme.asym_id 
@@ -8672,7 +8672,7 @@ _pdbx_validate_chiral.PDB_model_num   1
 _pdbx_validate_chiral.auth_atom_id    C1 
 _pdbx_validate_chiral.label_alt_id    ? 
 _pdbx_validate_chiral.auth_asym_id    H 
-_pdbx_validate_chiral.auth_comp_id    XXBMA 
+_pdbx_validate_chiral.auth_comp_id    1XAMB 
 _pdbx_validate_chiral.auth_seq_id     3 
 _pdbx_validate_chiral.PDB_ins_code    ? 
 _pdbx_validate_chiral.details         'WRONG HAND' 
@@ -8704,22 +8704,22 @@ _pdbx_branch_scheme.auth_seq_num
 _pdbx_branch_scheme.hetero 
 E 3 NAG 1 E NAG 1 E NAG 401 n 
 E 3 NAG 2 E NAG 2 E NAG 403 n 
-E 3 XXBMA 3 E XXBMA 3 E MAN 404 n 
+E 3 1XAMB 3 E 1XAMB 3 E MAN 404 n 
 E 3 MAN 4 E MAN 4 E MAN 405 n 
 E 3 FUC 5 E FUC 5 E FUC 402 n 
 F 4 NAG 1 F NAG 1 F NAG 501 n 
 F 4 NAG 2 F NAG 2 F NAG 503 n 
-F 4 XXBMA 3 F XXBMA 3 F MAN 504 n 
+F 4 1XAMB 3 F 1XAMB 3 F MAN 504 n 
 F 4 FUC 4 F FUC 4 F FUC 502 n 
 G 5 NAG 1 G NAG 1 G NAG 401 n 
 G 5 NAG 2 G NAG 2 G NAG 403 n 
-G 5 XXBMA 3 G XXBMA 3 G MAN 404 n 
+G 5 1XAMB 3 G 1XAMB 3 G MAN 404 n 
 G 5 MAN 4 G MAN 4 G MAN 405 n 
 G 5 MAN 5 G MAN 5 G MAN 406 n 
 G 5 FUC 6 G FUC 6 G FUC 402 n 
 H 4 NAG 1 H NAG 1 H NAG 501 n 
 H 4 NAG 2 H NAG 2 H NAG 503 n 
-H 4 XXBMA 3 H XXBMA 3 H MAN 504 n 
+H 4 1XAMB 3 H 1XAMB 3 H MAN 504 n 
 H 4 FUC 4 H FUC 4 H FUC 502 n 
 # 
 loop_
@@ -8728,10 +8728,10 @@ _pdbx_chem_comp_identifier.type
 _pdbx_chem_comp_identifier.program 
 _pdbx_chem_comp_identifier.program_version 
 _pdbx_chem_comp_identifier.identifier 
-XXBMA 'CONDENSED IUPAC CARBOHYDRATE SYMBOL' GMML     1.0 DManpb                         
-XXBMA 'COMMON NAME'                         GMML     1.0 b-D-mannopyranose              
-XXBMA 'IUPAC CARBOHYDRATE SYMBOL'           PDB-CARE 1.0 b-D-Manp                       
-XXBMA 'SNFG CARBOHYDRATE SYMBOL'            GMML     1.0 Man                            
+1XAMB 'CONDENSED IUPAC CARBOHYDRATE SYMBOL' GMML     1.0 DManpb                         
+1XAMB 'COMMON NAME'                         GMML     1.0 b-D-mannopyranose              
+1XAMB 'IUPAC CARBOHYDRATE SYMBOL'           PDB-CARE 1.0 b-D-Manp                       
+1XAMB 'SNFG CARBOHYDRATE SYMBOL'            GMML     1.0 Man                            
 FUC 'CONDENSED IUPAC CARBOHYDRATE SYMBOL' GMML     1.0 LFucpa                         
 FUC 'COMMON NAME'                         GMML     1.0 a-L-fucopyranose               
 FUC 'IUPAC CARBOHYDRATE SYMBOL'           PDB-CARE 1.0 a-L-Fucp                       
@@ -8789,16 +8789,16 @@ _pdbx_entity_branch_link.leaving_atom_id_2
 _pdbx_entity_branch_link.value_order 
 _pdbx_entity_branch_link.details 
 1  3 2 NAG C1 O1 1 NAG O4 HO4 sing ? 
-2  3 3 XXBMA C1 O1 2 NAG O4 HO4 sing ? 
-3  3 4 MAN C1 O1 3 XXBMA O3 HO3 sing ? 
+2  3 3 1XAMB C1 O1 2 NAG O4 HO4 sing ? 
+3  3 4 MAN C1 O1 3 1XAMB O3 HO3 sing ? 
 4  3 5 FUC C1 O1 1 NAG O3 HO3 sing ? 
 5  4 2 NAG C1 O1 1 NAG O4 HO4 sing ? 
-6  4 3 XXBMA C1 O1 2 NAG O4 HO4 sing ? 
+6  4 3 1XAMB C1 O1 2 NAG O4 HO4 sing ? 
 7  4 4 FUC C1 O1 1 NAG O3 HO3 sing ? 
 8  5 2 NAG C1 O1 1 NAG O4 HO4 sing ? 
-9  5 3 XXBMA C1 O1 2 NAG O4 HO4 sing ? 
-10 5 4 MAN C1 O1 3 XXBMA O3 HO3 sing ? 
-11 5 5 MAN C1 O1 3 XXBMA O6 HO6 sing ? 
+9  5 3 1XAMB C1 O1 2 NAG O4 HO4 sing ? 
+10 5 4 MAN C1 O1 3 1XAMB O3 HO3 sing ? 
+11 5 5 MAN C1 O1 3 1XAMB O6 HO6 sing ? 
 12 5 6 FUC C1 O1 1 NAG O3 HO3 sing ? 
 # 
 loop_
@@ -8808,16 +8808,16 @@ _pdbx_entity_branch_list.num
 _pdbx_entity_branch_list.hetero 
 3 NAG 1 n 
 3 NAG 2 n 
-3 XXBMA 3 n 
+3 1XAMB 3 n 
 3 MAN 4 n 
 3 FUC 5 n 
 4 NAG 1 n 
 4 NAG 2 n 
-4 XXBMA 3 n 
+4 1XAMB 3 n 
 4 FUC 4 n 
 5 NAG 1 n 
 5 NAG 2 n 
-5 XXBMA 3 n 
+5 1XAMB 3 n 
 5 MAN 4 n 
 5 MAN 5 n 
 5 FUC 6 n 
