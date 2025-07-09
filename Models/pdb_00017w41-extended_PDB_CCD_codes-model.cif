@@ -1,6 +1,6 @@
-data_PDB_000017W41
+data_pdb_000017w41
 # 
-_entry.id   PDB_000017W41 
+_entry.id   pdb_000017w41 
 # 
 _audit_conform.dict_name       mmcif_pdbx.dic 
 _audit_conform.dict_version    5.365 
@@ -11,13 +11,13 @@ _database_2.database_id
 _database_2.database_code 
 _database_2.pdbx_database_accession 
 _database_2.pdbx_DOI 
-PDB   PDB_000017W41         pdb_00017w41 10.2210/pdb7w41/pdb 
+PDB   pdb_000017w41         pdb_00017w41 10.2210/pdb_000017w41/pdb 
 WWPDB D_1300025936 ?            ?                   
 # 
 _pdbx_database_status.status_code                     REL 
 _pdbx_database_status.status_code_sf                  REL 
 _pdbx_database_status.status_code_mr                  ? 
-_pdbx_database_status.entry_id                        PDB_000017W41 
+_pdbx_database_status.entry_id                        pdb_000017w41 
 _pdbx_database_status.recvd_initial_deposition_date   2021-11-26 
 _pdbx_database_status.SG_entry                        N 
 _pdbx_database_status.deposit_site                    PDBJ 
@@ -84,7 +84,7 @@ _cell.angle_beta                   113.573
 _cell.angle_beta_esd               ? 
 _cell.angle_gamma                  90.000 
 _cell.angle_gamma_esd              ? 
-_cell.entry_id                     PDB_000017W41 
+_cell.entry_id                     pdb_000017w41 
 _cell.details                      ? 
 _cell.formula_units_Z              ? 
 _cell.length_a                     134.104 
@@ -110,7 +110,7 @@ _cell.reciprocal_length_b_esd      ?
 _cell.reciprocal_length_c_esd      ? 
 _cell.pdbx_unique_axis             ? 
 # 
-_symmetry.entry_id                         PDB_000017W41 
+_symmetry.entry_id                         pdb_000017w41 
 _symmetry.cell_setting                     ? 
 _symmetry.Int_Tables_number                5 
 _symmetry.space_group_name_Hall            ? 
@@ -750,9 +750,9 @@ _struct_ref_seq.db_align_end
 _struct_ref_seq.pdbx_db_align_end_ins_code 
 _struct_ref_seq.pdbx_auth_seq_align_beg 
 _struct_ref_seq.pdbx_auth_seq_align_end 
-1 1 PDB_000017W41 A 1   ? 204 ? P30550 38  ? 241 ? 38  241 
-2 2 PDB_000017W41 A 205 ? 400 ? Q9V2J8 218 ? 413 ? 242 437 
-3 3 PDB_000017W41 A 401 ? 484 ? P30550 254 ? 337 ? 438 521 
+1 1 pdb_000017w41 A 1   ? 204 ? P30550 38  ? 241 ? 38  241 
+2 2 pdb_000017w41 A 205 ? 400 ? Q9V2J8 218 ? 413 ? 242 437 
+3 3 pdb_000017w41 A 401 ? 484 ? P30550 254 ? 337 ? 438 521 
 # 
 loop_
 _struct_ref_seq_dif.align_id 
@@ -768,9 +768,9 @@ _struct_ref_seq_dif.pdbx_seq_db_seq_num
 _struct_ref_seq_dif.details 
 _struct_ref_seq_dif.pdbx_auth_seq_num 
 _struct_ref_seq_dif.pdbx_ordinal 
-1 PDB_000017W41 LYS A 90  ? UNP P30550 SER 127 'engineered mutation' 127 1 
-1 PDB_000017W41 ALA A 120 ? UNP P30550 ILE 157 'engineered mutation' 157 2 
-3 PDB_000017W41 GLU A 406 ? UNP P30550 ARG 259 'engineered mutation' 443 3 
+1 pdb_000017w41 LYS A 90  ? UNP P30550 SER 127 'engineered mutation' 127 1 
+1 pdb_000017w41 ALA A 120 ? UNP P30550 ILE 157 'engineered mutation' 157 2 
+3 pdb_000017w41 GLU A 406 ? UNP P30550 ARG 259 'engineered mutation' 443 3 
 # 
 loop_
 _chem_comp.id 
@@ -809,7 +809,7 @@ _exptl.absorpt_correction_T_max   ?
 _exptl.absorpt_correction_T_min   ? 
 _exptl.absorpt_correction_type    ? 
 _exptl.absorpt_process_details    ? 
-_exptl.entry_id                   PDB_000017W41 
+_exptl.entry_id                   pdb_000017w41 
 _exptl.crystals_number            1 
 _exptl.details                    ? 
 _exptl.method                     'X-RAY DIFFRACTION' 
@@ -929,7 +929,7 @@ _diffrn_source.pdbx_synchrotron_beamline   BL18U1
 _diffrn_source.pdbx_synchrotron_site       SSRF 
 # 
 _reflns.B_iso_Wilson_estimate                          ? 
-_reflns.entry_id                                       PDB_000017W41 
+_reflns.entry_id                                       pdb_000017w41 
 _reflns.data_reduction_details                         ? 
 _reflns.data_reduction_method                          ? 
 _reflns.d_resolution_high                              2.95 
@@ -1081,7 +1081,7 @@ _refine.diff_density_min                         ?
 _refine.diff_density_min_esd                     ? 
 _refine.diff_density_rms                         ? 
 _refine.diff_density_rms_esd                     ? 
-_refine.entry_id                                 PDB_000017W41 
+_refine.entry_id                                 pdb_000017w41 
 _refine.pdbx_refine_id                           'X-RAY DIFFRACTION' 
 _refine.ls_abs_structure_details                 ? 
 _refine.ls_abs_structure_Flack                   ? 
@@ -1259,7 +1259,7 @@ _refine_ls_shell.pdbx_fsc_free
 'X-RAY DIFFRACTION' 8     9.291 . . 33  293 98.4894  . . . 0.236 . 0.192 . . . . . . . . . . . 
 'X-RAY DIFFRACTION' 9.291 10    . . 17  144 80.9045  . . . 0.284 . 0.284 . . . . . . . . . . . 
 # 
-_struct.entry_id                     PDB_000017W41 
+_struct.entry_id                     pdb_000017w41 
 _struct.title                        
 'Crystal Structure of Human Gastrin Releasing Peptide Receptor in complex with the antagonist PD176252' 
 _struct.pdbx_model_details           ? 
@@ -1268,7 +1268,7 @@ _struct.pdbx_formula_weight_method   ?
 _struct.pdbx_model_type_details      ? 
 _struct.pdbx_CASP_flag               N 
 # 
-_struct_keywords.entry_id        PDB_000017W41 
+_struct_keywords.entry_id        pdb_000017w41 
 _struct_keywords.text            'GPCR, Gastrin Releasing Peptide Receptor, MEMBRANE PROTEIN' 
 _struct_keywords.pdbx_keywords   'MEMBRANE PROTEIN' 
 # 
@@ -1443,7 +1443,7 @@ AA2 3 4 N MET A 240 ? N MET A 277 O ILE A 320 ? O ILE A 357
 AA2 4 5 N VAL A 319 ? N VAL A 356 O ILE A 343 ? O ILE A 380 
 AA2 5 6 N ALA A 344 ? N ALA A 381 O ILE A 360 ? O ILE A 397 
 # 
-_atom_sites.entry_id                    PDB_000017W41 
+_atom_sites.entry_id                    pdb_000017w41 
 _atom_sites.Cartn_transf_matrix[1][1]   ? 
 _atom_sites.Cartn_transf_matrix[1][2]   ? 
 _atom_sites.Cartn_transf_matrix[1][3]   ? 
@@ -5963,7 +5963,7 @@ _software.pdbx_ordinal
 ? 'data scaling'   ? ? ? ? ? ? ? ? ? ? ? HKL-3000 ? ? ? .        3 
 ? phasing          ? ? ? ? ? ? ? ? ? ? ? PHASER   ? ? ? .        4 
 # 
-_pdbx_entry_details.entry_id                 PDB_000017W41 
+_pdbx_entry_details.entry_id                 pdb_000017w41 
 _pdbx_entry_details.has_ligand_of_interest   Y 
 _pdbx_entry_details.compound_details         ? 
 _pdbx_entry_details.source_details           ? 

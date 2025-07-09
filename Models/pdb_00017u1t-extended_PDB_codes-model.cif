@@ -1,6 +1,6 @@
-data_PDB_00017U1T
+data_pdb_00017u1t
 # 
-_entry.id   PDB_00017U1T 
+_entry.id   pdb_00017u1t 
 # 
 _audit_conform.dict_name       mmcif_pdbx.dic 
 _audit_conform.dict_version    5.366 
@@ -11,7 +11,7 @@ _database_2.database_id
 _database_2.database_code 
 _database_2.pdbx_database_accession 
 _database_2.pdbx_DOI 
-PDB   PDB_00017U1T         pdb_00017u1t 10.2210/pdb7u1t/pdb 
+PDB   pdb_00017u1t         pdb_00017u1t 10.2210/pdb_00017u1t/pdb 
 WWPDB D_1000263364 ?            ?                   
 EMDB  EMD-26305    ?            ?                   
 # 
@@ -23,7 +23,7 @@ _pdbx_database_related.content_type   'associated EM volume'
 _pdbx_database_status.status_code                     REL 
 _pdbx_database_status.status_code_sf                  ? 
 _pdbx_database_status.status_code_mr                  ? 
-_pdbx_database_status.entry_id                        PDB_00017U1T 
+_pdbx_database_status.entry_id                        pdb_00017u1t 
 _pdbx_database_status.recvd_initial_deposition_date   2022-02-22 
 _pdbx_database_status.SG_entry                        N 
 _pdbx_database_status.deposit_site                    RCSB 
@@ -83,7 +83,7 @@ _cell.angle_beta                   90.00
 _cell.angle_beta_esd               ? 
 _cell.angle_gamma                  90.00 
 _cell.angle_gamma_esd              ? 
-_cell.entry_id                     PDB_00017U1T 
+_cell.entry_id                     pdb_00017u1t 
 _cell.details                      ? 
 _cell.formula_units_Z              ? 
 _cell.length_a                     1.00 
@@ -109,7 +109,7 @@ _cell.reciprocal_length_b_esd      ?
 _cell.reciprocal_length_c_esd      ? 
 _cell.pdbx_unique_axis             ? 
 # 
-_symmetry.entry_id                         PDB_00017U1T 
+_symmetry.entry_id                         pdb_00017u1t 
 _symmetry.cell_setting                     ? 
 _symmetry.Int_Tables_number                1 
 _symmetry.space_group_name_Hall            ? 
@@ -564,12 +564,12 @@ _struct_ref_seq.db_align_end
 _struct_ref_seq.pdbx_db_align_end_ins_code 
 _struct_ref_seq.pdbx_auth_seq_align_beg 
 _struct_ref_seq.pdbx_auth_seq_align_end 
-1 1 PDB_00017U1T A 1 ? 178 ? P03211 438  ? 615  ? 438 615 
-2 1 PDB_00017U1T B 1 ? 178 ? P03211 438  ? 615  ? 438 615 
-3 1 PDB_00017U1T C 1 ? 178 ? P03211 438  ? 615  ? 438 615 
-4 1 PDB_00017U1T D 1 ? 178 ? P03211 438  ? 615  ? 438 615 
-5 2 PDB_00017U1T E 1 ? 59  ? 330330 9021 ? 9079 ? 1   59  
-6 3 PDB_00017U1T F 1 ? 59  ? 330330 9079 ? 9021 ? 3   61  
+1 1 pdb_00017u1t A 1 ? 178 ? P03211 438  ? 615  ? 438 615 
+2 1 pdb_00017u1t B 1 ? 178 ? P03211 438  ? 615  ? 438 615 
+3 1 pdb_00017u1t C 1 ? 178 ? P03211 438  ? 615  ? 438 615 
+4 1 pdb_00017u1t D 1 ? 178 ? P03211 438  ? 615  ? 438 615 
+5 2 pdb_00017u1t E 1 ? 59  ? 330330 9021 ? 9079 ? 1   59  
+6 3 pdb_00017u1t F 1 ? 59  ? 330330 9079 ? 9021 ? 3   61  
 # 
 loop_
 _chem_comp.id 
@@ -609,13 +609,13 @@ _exptl.absorpt_correction_T_max   ?
 _exptl.absorpt_correction_T_min   ? 
 _exptl.absorpt_correction_type    ? 
 _exptl.absorpt_process_details    ? 
-_exptl.entry_id                   PDB_00017U1T 
+_exptl.entry_id                   pdb_00017u1t 
 _exptl.crystals_number            ? 
 _exptl.details                    ? 
 _exptl.method                     'ELECTRON MICROSCOPY' 
 _exptl.method_details             ? 
 # 
-_struct.entry_id                     PDB_00017U1T 
+_struct.entry_id                     pdb_00017u1t 
 _struct.title                        'EBNA1 DNA binding domain (401-641) binds to half Dyad Symmetry element' 
 _struct.pdbx_model_details           ? 
 _struct.pdbx_formula_weight          ? 
@@ -623,7 +623,7 @@ _struct.pdbx_formula_weight_method   ?
 _struct.pdbx_model_type_details      ? 
 _struct.pdbx_CASP_flag               N 
 # 
-_struct_keywords.entry_id        PDB_00017U1T 
+_struct_keywords.entry_id        pdb_00017u1t 
 _struct_keywords.text            'EBV latency protein EBNA1 Dyad symmetry, VIRAL PROTEIN-DNA complex' 
 _struct_keywords.pdbx_keywords   'VIRAL PROTEIN/DNA' 
 # 
@@ -1006,7 +1006,7 @@ AA6 1 2 N ARG D 95  ? N ARG D 532 O PHE D 128 ? O PHE D 565
 AA6 2 3 O PHE D 125 ? O PHE D 562 N VAL D 72  ? N VAL D 509 
 AA6 3 4 N PHE D 71  ? N PHE D 508 O THR D 159 ? O THR D 596 
 # 
-_atom_sites.entry_id                    PDB_00017U1T 
+_atom_sites.entry_id                    pdb_00017u1t 
 _atom_sites.Cartn_transf_matrix[1][1]   ? 
 _atom_sites.Cartn_transf_matrix[1][2]   ? 
 _atom_sites.Cartn_transf_matrix[1][3]   ? 
@@ -9534,7 +9534,7 @@ _pdbx_audit_revision_details.type                'Initial release'
 _pdbx_audit_revision_details.description         ? 
 _pdbx_audit_revision_details.details             ? 
 # 
-_em_3d_fitting.entry_id          PDB_00017U1T 
+_em_3d_fitting.entry_id          pdb_00017u1t 
 _em_3d_fitting.id                1 
 _em_3d_fitting.details           ? 
 _em_3d_fitting.overall_b_value   135 
@@ -9557,7 +9557,7 @@ _em_3d_fitting_list.pdb_entry_id
 1 5 ? E 3-57    6PW2 
 1 6 ? F 3-57    6PW2 
 # 
-_em_3d_reconstruction.entry_id                    PDB_00017U1T 
+_em_3d_reconstruction.entry_id                    pdb_00017u1t 
 _em_3d_reconstruction.id                          1 
 _em_3d_reconstruction.algorithm                   ? 
 _em_3d_reconstruction.details                     ? 
@@ -9590,7 +9590,7 @@ _em_entity_assembly.synonym              ?
 _em_entity_assembly.oligomeric_details   ? 
 # 
 _em_imaging.id                              1 
-_em_imaging.entry_id                        PDB_00017U1T 
+_em_imaging.entry_id                        pdb_00017u1t 
 _em_imaging.accelerating_voltage            300 
 _em_imaging.alignment_procedure             ? 
 _em_imaging.c2_aperture_diameter            100 
@@ -9638,19 +9638,19 @@ _em_vitrification.cryogen_name          ETHANE
 _em_vitrification.details               ? 
 _em_vitrification.humidity              21 
 _em_vitrification.instrument            'FEI VITROBOT MARK IV' 
-_em_vitrification.entry_id              PDB_00017U1T 
+_em_vitrification.entry_id              pdb_00017u1t 
 _em_vitrification.citation_id           ? 
 _em_vitrification.method                ? 
 _em_vitrification.temp                  ? 
 _em_vitrification.time_resolved_state   ? 
 # 
-_em_experiment.entry_id                PDB_00017U1T 
+_em_experiment.entry_id                pdb_00017u1t 
 _em_experiment.id                      1 
 _em_experiment.aggregation_state       PARTICLE 
 _em_experiment.reconstruction_method   'SINGLE PARTICLE' 
 _em_experiment.entity_assembly_id      1 
 # 
-_em_single_particle_entity.entry_id              PDB_00017U1T 
+_em_single_particle_entity.entry_id              pdb_00017u1t 
 _em_single_particle_entity.id                    1 
 _em_single_particle_entity.image_processing_id   1 
 _em_single_particle_entity.point_symmetry        C2 
@@ -9845,9 +9845,9 @@ _em_specimen.vitrification_applied   YES
 loop_
 _ndb_struct_conf_na.entry_id 
 _ndb_struct_conf_na.feature 
-PDB_00017U1T 'double helix'        
-PDB_00017U1T 'a-form double helix' 
-PDB_00017U1T 'b-form double helix' 
+pdb_00017u1t 'double helix'        
+pdb_00017u1t 'a-form double helix' 
+pdb_00017u1t 'b-form double helix' 
 # 
 loop_
 _ndb_struct_na_base_pair.model_number 

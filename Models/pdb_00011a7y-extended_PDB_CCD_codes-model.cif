@@ -1,6 +1,6 @@
-data_PDB_00011A7Y
+data_pdb_00011a7y
 # 
-_entry.id   PDB_00011A7Y 
+_entry.id   pdb_00011a7y 
 # 
 _audit_conform.dict_name       mmcif_pdbx.dic 
 _audit_conform.dict_version    5.318 
@@ -9,8 +9,10 @@ _audit_conform.dict_location   http://mmcif.pdb.org/dictionaries/ascii/mmcif_pdb
 loop_
 _database_2.database_id 
 _database_2.database_code 
-PDB   PDB_00011A7Y         
-WWPDB D_1000170505 
+_database_2.pdbx_database_accession 
+_database_2.pdbx_DOI 
+PDB   pdb_00011a7y pdb_00011a7y 10.2210/pdb_000011a7y/pdb       
+WWPDB D_1000170505 ? ?
 # 
 loop_
 _pdbx_database_related.db_name 
@@ -34,7 +36,7 @@ PDB 1OVF unspecified 'SOLUTIOM STRUCTURE OF ACTINOMYCIN D COMPLEXED WITH DNA (CC
 PDB 1QFI unspecified 'CRYSTAL STRUCTURE OF ACTINOMYCIN X2'                                                        
 # 
 _pdbx_database_status.status_code                     REL 
-_pdbx_database_status.entry_id                        PDB_00011A7Y 
+_pdbx_database_status.entry_id                        pdb_00011a7y 
 _pdbx_database_status.recvd_initial_deposition_date   1998-03-19 
 _pdbx_database_status.deposit_site                    ? 
 _pdbx_database_status.process_site                    BNL 
@@ -78,7 +80,7 @@ primary 'Sheldrick, G.M.' 2 ?
 primary 'Bahner, I.'      3 ? 
 primary 'Lackner, H.'     4 ? 
 # 
-_cell.entry_id           PDB_00011A7Y 
+_cell.entry_id           pdb_00011a7y 
 _cell.length_a           15.737 
 _cell.length_b           15.887 
 _cell.length_c           25.156 
@@ -88,7 +90,7 @@ _cell.angle_gamma        69.86
 _cell.Z_PDB              3 
 _cell.pdbx_unique_axis   ? 
 # 
-_symmetry.entry_id                         PDB_00011A7Y 
+_symmetry.entry_id                         pdb_00011a7y 
 _symmetry.space_group_name_H-M             'P 1' 
 _symmetry.pdbx_full_space_group_name_H-M   ? 
 _symmetry.cell_setting                     ? 
@@ -189,9 +191,9 @@ _struct_ref_seq.db_align_end
 _struct_ref_seq.pdbx_db_align_end_ins_code 
 _struct_ref_seq.pdbx_auth_seq_align_beg 
 _struct_ref_seq.pdbx_auth_seq_align_end 
-1 1 PDB_00011A7Y A 1 ? 11 ? NOR00228 1 ? 11 ? 1 11 
-2 1 PDB_00011A7Y B 1 ? 11 ? NOR00228 1 ? 11 ? 1 11 
-3 1 PDB_00011A7Y C 1 ? 11 ? NOR00228 1 ? 11 ? 1 11 
+1 1 pdb_00011a7y A 1 ? 11 ? NOR00228 1 ? 11 ? 1 11 
+2 1 pdb_00011a7y B 1 ? 11 ? NOR00228 1 ? 11 ? 1 11 
+3 1 pdb_00011a7y C 1 ? 11 ? NOR00228 1 ? 11 ? 1 11 
 # 
 loop_
 _chem_comp.id 
@@ -210,7 +212,7 @@ PXZ non-polymer         . 2-AMINO-1,9-DICARBONYL-4,6-DIMETHYL-10-DEHYDRO-PHENOXA
 SAR 'peptide linking'   n SARCOSINE                                                       ?           'C3 H7 N O2'    89.093  
 THR 'L-peptide linking' y THREONINE                                                       ?           'C4 H9 N O3'    119.119 
 # 
-_exptl.entry_id          PDB_00011A7Y 
+_exptl.entry_id          pdb_00011a7y 
 _exptl.method            'X-RAY DIFFRACTION' 
 _exptl.crystals_number   1 
 # 
@@ -260,7 +262,7 @@ _diffrn_source.pdbx_wavelength_list        ?
 # 
 _reflns.pdbx_diffrn_id               1 
 _reflns.pdbx_ordinal                 1 
-_reflns.entry_id                     PDB_00011A7Y 
+_reflns.entry_id                     pdb_00011a7y 
 _reflns.observed_criterion_sigma_I   ? 
 _reflns.observed_criterion_sigma_F   ? 
 _reflns.d_resolution_low             999.000 
@@ -285,7 +287,7 @@ _reflns_shell.meanI_over_sigI_obs    11.900
 _reflns_shell.pdbx_redundancy        2.85 
 # 
 _refine.pdbx_refine_id                           'X-RAY DIFFRACTION' 
-_refine.entry_id                                 PDB_00011A7Y 
+_refine.entry_id                                 pdb_00011a7y 
 _refine.pdbx_diffrn_id                           1 
 _refine.pdbx_TLS_residual_ADP_flag               ? 
 _refine.ls_number_reflns_obs                     ? 
@@ -344,7 +346,7 @@ _refine.pdbx_overall_SU_R_Blow_DPI               ?
 _refine.pdbx_overall_SU_R_free_Blow_DPI          ? 
 # 
 _refine_analyze.pdbx_refine_id                  'X-RAY DIFFRACTION' 
-_refine_analyze.entry_id                        PDB_00011A7Y 
+_refine_analyze.entry_id                        pdb_00011a7y 
 _refine_analyze.Luzzati_coordinate_error_obs    ? 
 _refine_analyze.Luzzati_sigma_a_obs             ? 
 _refine_analyze.Luzzati_d_res_low_obs           ? 
@@ -385,7 +387,7 @@ s_similar_adp_cmpnt    0.027 ? ? ? 'X-RAY DIFFRACTION' ?
 s_approx_iso_adps      0.000 ? ? ? 'X-RAY DIFFRACTION' ? 
 # 
 _pdbx_refine.pdbx_refine_id                              'X-RAY DIFFRACTION' 
-_pdbx_refine.entry_id                                    PDB_00011A7Y 
+_pdbx_refine.entry_id                                    pdb_00011a7y 
 _pdbx_refine.R_factor_all_no_cutoff                      0.057 
 _pdbx_refine.R_factor_obs_no_cutoff                      0.058 
 _pdbx_refine.free_R_factor_no_cutoff                     0.068 
@@ -399,14 +401,14 @@ _pdbx_refine.free_R_val_test_set_size_perc_4sig_cutoff   10.000
 _pdbx_refine.free_R_val_test_set_ct_4sig_cutoff          1334 
 _pdbx_refine.number_reflns_obs_4sig_cutoff               13362 
 # 
-_struct.entry_id                  PDB_00011A7Y 
+_struct.entry_id                  pdb_00011a7y 
 _struct.title                     'CRYSTAL STRUCTURE OF ACTINOMYCIN D' 
 _struct.pdbx_descriptor           'ACTINOMYCIN D' 
 _struct.pdbx_model_details        ? 
 _struct.pdbx_CASP_flag            ? 
 _struct.pdbx_model_type_details   ? 
 # 
-_struct_keywords.entry_id        PDB_00011A7Y 
+_struct_keywords.entry_id        pdb_00011a7y 
 _struct_keywords.pdbx_keywords   ANTIBIOTIC 
 _struct_keywords.text            'ACTINOMYCIN, ANTIBIOTIC, ANTITUMOR, ANTICANCER, CHROMOPHORE, DEPSIPEPTIDE' 
 # 
@@ -664,7 +666,7 @@ _struct_site_gen.details
 89 BC1 21 EEE J .  ? EEE C 103 . ? 1_555 ? 
 90 BC1 21 EEE J .  ? EEE C 103 . ? 1_655 ? 
 # 
-_database_PDB_matrix.entry_id          PDB_00011A7Y 
+_database_PDB_matrix.entry_id          pdb_00011a7y 
 _database_PDB_matrix.origx[1][1]       1.000000 
 _database_PDB_matrix.origx[1][2]       0.000000 
 _database_PDB_matrix.origx[1][3]       0.000000 
@@ -678,7 +680,7 @@ _database_PDB_matrix.origx_vector[1]   0.00000
 _database_PDB_matrix.origx_vector[2]   0.00000 
 _database_PDB_matrix.origx_vector[3]   0.00000 
 # 
-_atom_sites.entry_id                    PDB_00011A7Y 
+_atom_sites.entry_id                    pdb_00011a7y 
 _atom_sites.fract_transf_matrix[1][1]   0.063545 
 _atom_sites.fract_transf_matrix[1][2]   -0.023304 
 _atom_sites.fract_transf_matrix[1][3]   -0.003039 
@@ -1569,7 +1571,7 @@ SAINT     'data reduction' . ? 3
 SADABS    'data scaling'   . ? 4 
 SHELXL-97 phasing          . ? 5 
 # 
-_pdbx_entry_details.entry_id             PDB_00011A7Y 
+_pdbx_entry_details.entry_id             pdb_00011a7y 
 _pdbx_entry_details.compound_details     
 ;ACTINOMYCIN D IS A BICYCLIC PEPTIDE, A MEMBER OF THE                 
   ACTINOMYCIN FAMILY.
