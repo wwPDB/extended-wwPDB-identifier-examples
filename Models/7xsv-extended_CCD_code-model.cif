@@ -6181,14 +6181,6 @@ A 1 287 PRO 287 311 ?   ?   ?   A . n
 A 1 288 SER 288 312 ?   ?   ?   A . n 
 A 1 289 LYS 289 313 ?   ?   ?   A . n 
 # 
-_pdbx_contact_author.id                 5 
-_pdbx_contact_author.email              huangniu@nibs.ac.cn 
-_pdbx_contact_author.name_first         Niu 
-_pdbx_contact_author.name_last          Huang 
-_pdbx_contact_author.name_mi            ? 
-_pdbx_contact_author.role               'principal investigator/group leader' 
-_pdbx_contact_author.identifier_ORCID   0000-0002-6912-033X 
-# 
 loop_
 _pdbx_nonpoly_scheme.asym_id 
 _pdbx_nonpoly_scheme.entity_id 

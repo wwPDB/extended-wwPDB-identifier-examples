@@ -133,14 +133,6 @@ _pdbx_database_related.details        'Phosphorylated human NKCC1 in complex wit
 _pdbx_database_related.db_id          EMD-45083 
 _pdbx_database_related.content_type   'associated EM volume' 
 # 
-_pdbx_contact_author.id                 2 
-_pdbx_contact_author.email              erhu.cao@biochem.utah.edu 
-_pdbx_contact_author.name_first         Erhu 
-_pdbx_contact_author.name_last          Cao 
-_pdbx_contact_author.name_mi            ? 
-_pdbx_contact_author.role               'principal investigator/group leader' 
-_pdbx_contact_author.identifier_ORCID   0000-0003-3102-5692 
-# 
 loop_
 _audit_author.name 
 _audit_author.pdbx_ordinal 

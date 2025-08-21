@@ -5869,14 +5869,6 @@ A 1 482 THR 482 519 519 THR THR A . n
 A 1 483 GLN 483 520 520 GLN GLN A . n 
 A 1 484 LEU 484 521 521 LEU LEU A . n 
 # 
-_pdbx_contact_author.id                 2 
-_pdbx_contact_author.email              haitaozhang@zju.edu.cn 
-_pdbx_contact_author.name_first         Haitao 
-_pdbx_contact_author.name_last          Zhang 
-_pdbx_contact_author.name_mi            ? 
-_pdbx_contact_author.role               'principal investigator/group leader' 
-_pdbx_contact_author.identifier_ORCID   0000-0003-4879-2951 
-# 
 _pdbx_nonpoly_scheme.asym_id         B 
 _pdbx_nonpoly_scheme.entity_id       2 
 _pdbx_nonpoly_scheme.mon_id          9QRZS 

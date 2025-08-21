@@ -16170,14 +16170,6 @@ B 1 817 HIS 817 815 ?   ?   ?   B . n
 B 1 818 HIS 818 816 ?   ?   ?   B . n 
 B 1 819 HIS 819 817 ?   ?   ?   B . n 
 # 
-_pdbx_contact_author.id                 2 
-_pdbx_contact_author.email              rmariuzz@umd.edu 
-_pdbx_contact_author.name_first         Roy 
-_pdbx_contact_author.name_last          Mariuzza 
-_pdbx_contact_author.name_mi            A 
-_pdbx_contact_author.role               'principal investigator/group leader' 
-_pdbx_contact_author.identifier_ORCID   0000-0003-0748-5875 
-# 
 loop_
 _pdbx_nonpoly_scheme.asym_id 
 _pdbx_nonpoly_scheme.entity_id 

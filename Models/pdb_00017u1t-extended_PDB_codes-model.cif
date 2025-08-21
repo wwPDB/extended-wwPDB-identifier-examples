@@ -9485,14 +9485,6 @@ F 3 57  DT  57  59  59  DT  DT  F . n
 F 3 58  DT  58  60  60  DT  DT  F . n 
 F 3 59  DA  59  61  61  DA  DA  F . n 
 # 
-_pdbx_contact_author.id                 2 
-_pdbx_contact_author.email              lieberman@wistar.org 
-_pdbx_contact_author.name_first         Paul 
-_pdbx_contact_author.name_last          Lieberman 
-_pdbx_contact_author.name_mi            ? 
-_pdbx_contact_author.role               'principal investigator/group leader' 
-_pdbx_contact_author.identifier_ORCID   0000-0002-3935-9921 
-# 
 _pdbx_struct_assembly.id                   1 
 _pdbx_struct_assembly.details              author_defined_assembly 
 _pdbx_struct_assembly.method_details       ? 
