@@ -11,7 +11,7 @@ _database_2.database_id
 _database_2.database_code 
 _database_2.pdbx_database_accession 
 _database_2.pdbx_DOI 
-PDB   7U1T         pdb_00007u1t 10.2210/pdb_00007u1t/pdb 
+PDB   7U1T         pdb_00007u1t 10.2210/pdb7u1t/pdb 
 WWPDB D_1000263364 ?            ?                   
 EMDB  EMD-26305    ?            ?                   
 # 
