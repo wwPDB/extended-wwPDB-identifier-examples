@@ -11,7 +11,7 @@ _database_2.database_id
 _database_2.database_code 
 _database_2.pdbx_database_accession 
 _database_2.pdbx_DOI 
-PDB   pdb_00011b5f pdb_00011b5f 10.2210/pdb_000011b5f/pdb        
+PDB   pdb_00011b5f pdb_00011b5f 10.2210/pdb_00011b5f/pdb        
 WWPDB D_1000008008 ? ?
 # 
 _pdbx_database_status.status_code                     REL 

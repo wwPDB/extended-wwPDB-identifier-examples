@@ -11,7 +11,7 @@ _database_2.database_id
 _database_2.database_code 
 _database_2.pdbx_database_accession 
 _database_2.pdbx_DOI 
-PDB   pdb_00011a7y pdb_00011a7y 10.2210/pdb_000011a7y/pdb       
+PDB   pdb_00011a7y pdb_00011a7y 10.2210/pdb_00011a7y/pdb       
 WWPDB D_1000170505 ? ?
 # 
 loop_
